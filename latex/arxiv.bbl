@@ -1,0 +1,112 @@
+\begin{thebibliography}{BBM93b}
+
+\bibitem[AB90]{ArBo:tpem}
+Alexander~Yu. Arzhenenko and Anton~V. Bondarenko.
+\newblock Optimizing binnary questionnaires with tolerant replacement method.
+\newblock {\em Electronic modelling}, March 1990.
+\newblock (In Russian).
+
+\bibitem[AB91]{ArBo:tpait}
+Alexander~Yu. Arzhenenko and Anton~V. Bondarenko.
+\newblock Algorithm for choice of optimal structure for an irredundanr compact
+  questionnaire.
+\newblock {\em Automation and Remote Control}, May 1991.
+\newblock (In Russian).
+
+\bibitem[AB03]{ArBo:pds}
+Alexander~Yu. Arzhenenko and Anton~V. Bondarenko.
+\newblock {\em Discrete search problems}.
+\newblock University of Russian Academy of Education, Moscow, 2003.
+\newblock (In Russian).
+
+\bibitem[AB10]{ArBo:ddv}
+Alexander~Yu. Arzhenenko and Anton~V. Bondarenko.
+\newblock Optimizing binnary questionnaires with limited branch length, 2010.
+\newblock Preprint in preparation, to appear in Arxiv.
+
+\bibitem[AC89]{ArCh:obq}
+Alexander~Yu. Arzhenenko and Boris~N. Chougaev.
+\newblock {\em Optimal binary questionnaires}.
+\newblock Energoatomizdat, Moscow, 1989.
+\newblock (In Russian).
+
+\bibitem[AC94]{ArCh:mftd}
+Alexander~Yu. Arzhenenko and Boris~N. Chougaev.
+\newblock {\em Optimal binary questionnaires}.
+\newblock Moscow Aviation Institute, Moscow, 1994.
+\newblock (In Russian).
+
+\bibitem[BBM93a]{Be1}
+David Beasley, David~R. Bull, and Ralph~R. Martin.
+\newblock An overview of genetic algorithms: Part 1, fundamentals.
+\newblock {\em University Computing}, (15), 1993.
+
+\bibitem[BBM93b]{Be2}
+David Beasley, David~R. Bull, and Ralph~R. Martin.
+\newblock An overview of genetic algorithms: Part 2, research topics.
+\newblock {\em University Computing}, (15), 1993.
+
+\bibitem[Bon03]{Bo:tpp}
+Anton~V. Bondarenko.
+\newblock Problems in development of tolerant replacements for binary
+  questionnaires, 2003.
+\newblock Preprint VINITI No. 509-B2003 (In Russian).
+
+\bibitem[Fei98]{F}
+Uriel Feige.
+\newblock A threshold of ln n for approximating set cover.
+\newblock {\em Journal of the ACM}, 45(4):634--652, July 1998.
+
+\bibitem[GJ90]{GJ}
+Michael~R. Garey and David~S. Johnson.
+\newblock {\em Computers and Intractability; A Guide to the Theory of
+  NP-Completeness}.
+\newblock W. H. Freeman \& Co., New York, 1990.
+
+\bibitem[GW77]{GW}
+Adriano~M. Garsia and Michelle~L. Wachs.
+\newblock A new algorithm for minimal binary search trees.
+\newblock {\em SIAM Journal on Computing}, 6(4):622--642, 1977.
+
+\bibitem[Hol92]{Ho}
+John~H. Holland.
+\newblock {\em Adaptation in natural and artificial systems}.
+\newblock MIT Press, Cambridge, MA, USA, 1992.
+\newblock (2nd ed.).
+
+\bibitem[HT71]{HT}
+Te~C. Hu and Alan~C. Tucker.
+\newblock Optimal computer search trees and variable-length alphabetical codes.
+\newblock {\em SIAM Journal on Applied Mathematics}, (21):514--532, 1971.
+
+\bibitem[Huf52]{H}
+David~A. Huffman.
+\newblock A method for the construction of minimum redundancy codes.
+\newblock In {\em Proceedings of the IRE}, pages 1098--1101, 1952.
+
+\bibitem[Pic72]{Pi:geq}
+Claude~Fran{\c c}ois Picard.
+\newblock {\em Graphes et Questionnaires}.
+\newblock Gauthier-Villars, Paris, 1972.
+\newblock (In French).
+
+\bibitem[PS81]{PaSo:td}
+Pavel~P. Parkhomenko and Yegor~S. Sogomonyan.
+\newblock {\em Foundations of technical diagnosics}.
+\newblock Energoatomizdat, Moscow, 1981.
+\newblock (In Russian).
+
+\bibitem[RS97]{RS}
+Ran Raz and Shmuel Safra.
+\newblock A sub-constant error-probability low-degree test, and a sub-constant
+  error-probability pcp characterization of np.
+\newblock In {\em STOC '97: Proceedings of the twenty-ninth annual ACM
+  symposium on Theory of computing}, pages 475--484, New York, 1997. ACM.
+
+\bibitem[Sob60]{Sob:gt}
+Milton Sobel.
+\newblock Group testing to classify efficiently all units in a binomial sample.
+\newblock In Robert~E. Macho, editor, {\em Information and Decision Processes},
+  pages 127--161, New York, 1960. McGraw-Hill Book Co., Inc.
+
+\end{thebibliography}
